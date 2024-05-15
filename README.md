@@ -1,6 +1,6 @@
 # ai-case-study
 
-# Title - how company responds to problems using AI technology.
+# Title - company use of AI technology.
 
 # Table of Contents
 ## 1. Overview and Origin
@@ -8,7 +8,7 @@
 	1.2 Founders, incorporation, and how the idea came about
 	1.3 Funding
 ## 2. Business Activities
-	2.1 Specific problem Microsoft is trying to solve
+	2.1 Specific problems with solution
 	2.2 Intended customer and the market size
 	2.3 Solution major competitors cannot offer
 ## 3. Landscape
@@ -26,13 +26,17 @@
 # Overview and Origin
 
 ### Name of company 
+
 Microsoft Corporation, Inc "Microsoft"
+
 
 ### Founders, incorporation, and how the idea came about
   
 Microsoft was founded on April 4, 1975, by Bill Gates and Paul Allen in Albuquerque, New Mexico and restructured on June 25, 1981, to become an incorporated business in its home state of Washington (with a further change of its name to "Microsoft Corporation, Inc."). In 1975 Bill Gates and Paul G. Allen, converted BASIC, a popular mainframe computer programming language, for use on an early personal computer (PC), the Altair. Shortly afterward, Gates and Allen founded Microsoft, deriving the name from the words microcomputer and software. During the next few years, they refined BASIC and developed other programming languages.
 
-The world runs on DOS. In 1980, International Business Machines Corporation (IBM) asked Microsoft to produce the essential software, or operating system, for its first personal computer, the IBM PC. Microsoft purchased an operating system from another company, modified it, and renamed it MS-DOS (Microsoft Disk Operating System). MS-DOS was released with the IBM PC in 1981. Thereafter, most manufacturers of personal computers licensed MS-DOS as their operating system, generating vast revenues for Microsoft; by the early 1990s, it had sold more than 100 million copies of the program and defeated rival operating systems such as CP/M, which it displaced in the early 1980s, and later IBM OS/2. The Windows revolution. Microsoft deepened its position in operating systems with Windows, a graphical user interface whose third version, released in 1990, gained a wide following. By 1993, Windows 3.0 and its subsequent versions were selling at a rate of one million copies per month, and nearly 90 percent of the world’s PCs ran on a Microsoft operating system. In 1995 the company released Windows 95, which for the first time fully integrated MS-DOS with Windows and effectively matched in ease of use Apple Computer’s Mac OS. Powering the office, Microsoft also became the leader in productivity software such as word processing and spreadsheet programs, outdistancing longtime rivals Lotus and WordPerfect in the process.
+The world runs on DOS. In 1980, International Business Machines Corporation (IBM) asked Microsoft to produce the essential software, or operating system, for its first personal computer, the IBM PC. Microsoft purchased an operating system from another company, modified it, and renamed it MS-DOS (Microsoft Disk Operating System). MS-DOS was released with the IBM PC in 1981. Thereafter, most manufacturers of personal computers licensed MS-DOS as their operating system, generating vast revenues for Microsoft; by the early 1990s, it had sold more than 100 million copies of the program and defeated rival operating systems such as CP/M, which it displaced in the early 1980s, and later IBM OS/2. 
+
+The Windows revolution. Microsoft deepened its position in operating systems with Windows, a graphical user interface whose third version, released in 1990, gained a wide following. By 1993, Windows 3.0 and its subsequent versions were selling at a rate of one million copies per month, and nearly 90 percent of the world’s PCs ran on a Microsoft operating system. In 1995 the company released Windows 95, which for the first time fully integrated MS-DOS with Windows and effectively matched in ease of use Apple Computer’s Mac OS. Powering the office, Microsoft also became the leader in productivity software such as word processing and spreadsheet programs, outdistancing longtime rivals Lotus and WordPerfect in the process.
 
 Entering the media world, Microsoft dramatically expanded its electronic publishing division, created in 1985 and already notable for the success of its multimedia encyclopedia, Encarta. It also entered the information services and entertainment industries with a wide range of products and services, most notably the Microsoft Network and MSNBC (a joint venture with the National Broadcasting Company, a major American television network, which began in 1995 and ended in 2012).
 
@@ -44,12 +48,12 @@ Today, Microsoft is considered one of the leaders in the field of AI and virtual
 Its current best-selling products are the Microsoft Windows operating system; Microsoft Office, a suite of productivity software; Xbox, a line of entertainment of games, music, and video; Bing, a line of search engines; and Microsoft Azure, and a cloud services platform.
 
 ### Funding
-It was privately funded when it was incorporated, but in fiscal year 2023,it has a record of $211 billion in revenue and over $88 billion in operating income.
+It was privately funded when it was incorporated, but in fiscal year 2023, it has a record of $211 billion in revenue and over $88 billion in operating income.
 
 
 # Business Activities
 
-### Specific problem Microsoft is trying to solve
+### Specific problems with solution
 •	Generative AI risks are manyfold, with the technology carrying the potential to produce unwanted outputs or act in a way that could put customers or their data at risk, damage business reputations, or even empower hackers. Many governments are also working on legislation to address and regulate AI use, and the technology will become the focus of intense legal proceedings for years to come. In the face of this, all major AI vendors and developers bear a heavy responsibility. Microsoft has had responsible AI practices in place since 2017, and it has worked to give customers control over their own responsibilities through the Azure Responsible AI dashboard for machine learning (ML) workflows. A vague reference to the “guardrails” Microsoft is working to put in place to protect users from potential infringements on their human rights or legal status may not have been enough to reassure more cynical readers. Microsoft maintains a close relationship with governments, civil society, and experts in the industry to collaborate on AI safety.
 
 •	Mistake-correction AI : Microsoft unveils ‘LeMa’: A revolutionary AI learning method mirroring human problem solving Microsoft have developed a new technique to improve large language models’ (LLMs) ability to solve math problems by having them learn from their mistakes, akin to how humans learn. This has revealed a pioneering strategy, Learning from Mistakes (LeMa), which trains AI to correct its own mistakes, leading to enhanced reasoning abilities. The inspiration was drawn from human learning processes, where a student learns from their mistakes to improve future performance. “Consider a human student who failed to solve a math problem, he will learn from what mistake he has made and how to correct it,”. This concept was applied to LLMs, using mistake-correction data pairs generated by GPT-4 to fine-tune them.
@@ -90,6 +94,7 @@ Microsoft has outlined three key artificial intelligence trends for 2024 includi
 
 ### Impact in business
 Microsoft has impacted many businesses by providing:
+
 •	Improved efficiency of IT teams: Microsoft 365 for business saved IT managers hours by spending less time managing, updating, and troubleshooting applications with Microsoft’s integrated suite of solutions and also saved time recovering accidentally deleted files. 
 
 •	Improved business user productivity weekly per employe: The integrated Microsoft suite of productivity and collaboration tools saved employees’ hour per week thereby increasing productivity.
@@ -110,10 +115,15 @@ productSuite : With comprehensive multi-platform compatibility and affordable, b
 
 ### Benefit of the new product/technology
  It brings about the unique benefit customers get when they do business and  combination of marketing elements using the features of Artifical Intelligence technologies.
+
 ### Technology appropriateness
 AI has the ability to analyze massive amounts of data and convert its findings into convenient visual formats that can accelerate decision-making process by saving time and cost.
 
-##SOURCES
+
+
+
+
+## SOURCES
 https://www.britannica.com/money/Microsoft-Corporation
 
 https://en.wikipedia.org/wiki/History_of_Microsoft#:~:text=Microsoft%20is%20a%20multinational%20computer,Allen%20in%20Albuquerque%2C%20New%20Mexico.
